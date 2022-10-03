@@ -1,0 +1,2 @@
+# PlanetStore
+将部分文件的格式从根本转化为可被planetbuilder解析的.planet文件
